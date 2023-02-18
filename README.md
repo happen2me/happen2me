@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔍 I’m currently (lazily) looking for an internship in backend | cloud | data-science
 
 
-![sakamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=happen2me&show_icons=true&theme=transparent)
+![sakamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=happen2me&show_icons=true&theme=transparent&count_private=true)
 
