@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning distributed systems
 - 🔍 I’m currently (lazily) looking for an internship in backend | cloud | data-science
 
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=happen2me&show_icons=true&theme=transparent&count_private=true&hide_border=true" align = "left" alt="sakamoto's GitHub stats"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=happen2me&show_icons=true&count_private=true&hide_border=true" align = "left" alt="sakamoto's GitHub stats"/>
  
-<img width="480em" src="https://streak-stats.demolab.com/?user=happen2me&theme=transparent&hide_border=true" align = "left" alt="sakamoto's GitHub stats"/>
+<img width="480em" src="https://streak-stats.demolab.com/?user=happen2me&hide_border=true" align = "left" alt="sakamoto's GitHub stats"/>
